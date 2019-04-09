@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">diceplay</string>
+    <string name="button_roll"> Roll</string>
+    <string name="logo">logo_losVegas</string>
+    <string name="left_dice">dice1</string>
+    <string name="right_dice">dice6</string>
+</resources>
